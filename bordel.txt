@@ -1,0 +1,62 @@
+ <!-- <div id="popup1" class="overlay">
+            <div class="popup">
+                <a class="close" id="close-1" href="#">&times;</a>
+                <div class="content">
+                    <div class="video">
+                        <iframe class="yt-video" id="video-1" width="885" height="500" src="https://www.youtube.com/embed/_O6HmSF2tCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="popup2" class="overlay">
+            <div class="popup popup-audio">
+                <a class="close" href="#">&times;</a>
+                <div class="content">
+                    <div class="audio">
+                        <audio src="../audio2.mp4" controls></audio>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="popup3" class="overlay">
+            <div class="popup popup-audio">
+                <a class="close" href="#">&times;</a>
+                <div class="content">
+                    <div class="audio">
+                        <audio src="../audio1.mp4" controls></audio>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="popup4" class="overlay">
+            <div class="popup">
+                <a class="close" id="close-2" href="#">&times;</a>
+                <div class="content">
+                    <div class="video">
+                        <iframe class="yt-video" id="video-2" width="885" height="500" src="https://www.youtube.com/embed/LVzm8MRclkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="popup5" class="overlay">
+            <div class="popup popup-audio">
+                <a class="close" href="#">&times;</a>
+                <div class="content">
+                    <div class="audio">
+                        <audio src="../audio 3.mp4" controls></audio>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+ <!-- <a href="#popup1"><g id="c1" transform="translate(7, 2)" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></g></a>
+            <a href="#popup2"><g id="c2" transform="translate(40, 120)" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></g></a>
+            <a href="#popup3"><g id="c3" transform="translate(150, 120)" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></g></a>
+            <a href="#popup4"><g id="c4" transform="translate(165, 110)" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></g></a>
+            <a href="#popup5"><g id="c5" transform="translate(230, 40)" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></g></a> -->
+
+            /* .overlay:target {
+    visibility: visible;
+    opacity: 1;
+} */
